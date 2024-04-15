@@ -1,0 +1,63 @@
+pd 4
+Total number of messages consumed: 60266207
+Total number of messages consumed: 60008674
+Total number of messages consumed: 60567768
+Total number of messages consumed: 58929549
+Total number of messages consumed: 60587294
+done ~
+
+pd 8
+Total number of messages consumed: 70998745
+Total number of messages consumed: 71513947
+Total number of messages consumed: 70682783
+Total number of messages consumed: 70814268
+Total number of messages consumed: 70665142
+done ~
+
+pd 12
+Total number of messages consumed: 99865283
+Total number of messages consumed: 101265183
+Total number of messages consumed: 101341150
+Total number of messages consumed: 101761869
+Total number of messages consumed: 101838452
+done ~
+
+pd 16
+Total number of messages consumed: 102086607
+Total number of messages consumed: 102134758
+Total number of messages consumed: 105038751
+Total number of messages consumed: 102308894
+Total number of messages consumed: 101135983
+done ~
+~~~
+wp 4
+Total number of messages consumed: 167049169
+Total number of messages consumed: 166970355
+Total number of messages consumed: 168835399
+Total number of messages consumed: 168083350
+Total number of messages consumed: 168526952
+done ~
+
+wp 8
+Total number of messages consumed: 291038865
+Total number of messages consumed: 294837203
+Total number of messages consumed: 298180030
+Total number of messages consumed: 297909774
+Total number of messages consumed: 291423150
+done ~
+
+wp 12
+Total number of messages consumed: 367819368
+Total number of messages consumed: 368938576
+Total number of messages consumed: 367569952
+Total number of messages consumed: 367576162
+Total number of messages consumed: 368977506
+done ~
+
+wp 16
+Total number of messages consumed: 476979055
+Total number of messages consumed: 473177487
+Total number of messages consumed: 475090992
+Total number of messages consumed: 473342363
+Total number of messages consumed: 474398697
+done ~
